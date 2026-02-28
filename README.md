@@ -6,7 +6,7 @@ I’m progressing through DP-700: Designing and Implementing a Data Warehouse wi
 
 📝 Status: Learning completed; next step is hands-on practice!
 
-Topics I’ve Learned So Far:
+## Topics I’ve Learned So Far:
 
 1. Data Warehouses & Lakehouses
 
